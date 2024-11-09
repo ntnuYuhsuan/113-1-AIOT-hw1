@@ -1,6 +1,14 @@
 # 113-1-AIOT-hw1
 
-數據形狀 - 特徵: torch.Size([759, 8]) | 標籤: torch.Size([759, 1])
+Using device: cuda
+
+===============================
+
+X's shape: torch.Size([759, 8]) | Y's shape: torch.Size([759, 1])
+![image](https://github.com/user-attachments/assets/8631e493-65e1-4057-81b2-1b75f130ce36)
+
+![image](https://github.com/user-attachments/assets/3e4c0d9e-9bb3-4dec-99ee-fd1121bbbbe6)
+
 
 ===== 比較不同激活函數 =====
 
